@@ -1,0 +1,31 @@
+.box{
+    width: 100%;
+    background-image: url("../blogwp.webp");
+    background-size: cover;
+}
+.b_album{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.b_todo{
+    background-image: url("../blogwp.webp");
+    background-size: cover;
+
+}
+.todo{
+    background-color: rgb(0, 0, 0, 0.7);
+    color: white;
+    padding: 20px;
+}
+image{
+    height: 300px;
+    width: 200px;
+}
+.title{
+    font-weight: 600;
+}

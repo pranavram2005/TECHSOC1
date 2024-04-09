@@ -1,0 +1,21 @@
+.head{
+    background-color: #641E16;
+    font-size: 25px; 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around; 
+    font-weight: 500; 
+
+}
+p{
+    color: black;
+}
+.head>div>img{
+    height: 70px;
+    width: 80px;
+}
+.head>div{
+
+    color: #FDFEFE;
+}
